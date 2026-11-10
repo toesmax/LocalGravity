@@ -1,0 +1,11 @@
+# Node & OS
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+dist/
+*.exe
+*.zip
+*.dmg
+*.AppImage
+*.deb
