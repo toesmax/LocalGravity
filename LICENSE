@@ -1,21 +1,73 @@
-MIT License
+LOCALGRAVITY END USER LICENSE AGREEMENT (EULA)
 
-Copyright (c) 2026 LocalGravity Contributors
+Last Updated: November 2026
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+PLEASE READ THIS END USER LICENSE AGREEMENT ("EULA" OR "AGREEMENT") CAREFULLY BEFORE DOWNLOADING, INSTALLING, OR USING LOCALGRAVITY ("THE SOFTWARE"). 
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+BY DOWNLOADING, INSTALLING, COPYING, OR USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT DOWNLOAD, INSTALL, COPY, OR USE THE SOFTWARE.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+---
+
+### 1. OWNERSHIP & INTELLECTUAL PROPERTY
+LocalGravity, including but not limited to its binary code, object code, user interface, visual designs, algorithms, workflows, studios, documentation, and all associated intellectual property rights, is the exclusive proprietary property of Andrea Straniero and Matteo Straniero ("the Authors" / "Licensors"). 
+
+This Agreement does NOT sell, convey, or transfer any title, copyright, patent, trademark, or ownership of the Software or its underlying source code to you. All rights not expressly granted herein are reserved by the Authors.
+
+---
+
+### 2. GRANT OF LICENSE
+Subject to the terms and limitations of this Agreement, the Authors grant you a revocable, non-exclusive, non-transferable, limited license to:
+- Download, install, and execute the pre-compiled binary executable copies of the Software on compatible desktop operating systems (Windows, macOS, Linux).
+- Use the Software for personal, educational, research, and internal commercial development purposes, free of charge.
+
+---
+
+### 3. RESTRICTIONS & PROHIBITED CONDUCT
+You expressly agree NOT to, and will not permit or assist any third party to:
+1. **Decompilation & Reverse Engineering**: Decompile, disassemble, reverse engineer, decrypt, extract, unpack (including extracting the `app.asar` archive or internal runtime resources), or otherwise attempt to derive or discover the source code of the Software.
+2. **Modification & Derivative Works**: Modify, alter, patch, adapt, translate, or create derivative works based upon the Software in whole or in part.
+3. **Commercial Redistribution & Sublicensing**: Sell, rent, lease, sublicense, distribute, host as a cloud service, commercialize, or charge fees for the distribution or download of the Software or its installer files without prior express written consent from the Authors.
+4. **Circumvention of Protections**: Bypass, modify, disable, or circumvent any security controls, licensing mechanisms, or firewall protections incorporated into the Software.
+5. **Trademark & Notice Removal**: Remove, alter, or obscure any copyright notices, author credits, trademarks, or proprietary markings embedded in or displayed by the Software.
+
+---
+
+### 4. THIRD-PARTY AI MODELS & RESPONSIBLE USE
+1. **No Bundled Models**: LocalGravity is a runtime execution environment and engineering workstation. It does not bundle, host, or distribute proprietary AI weights, models, or datasets.
+2. **User Responsibility**: You are solely responsible for:
+   - Any third-party foundation models, local weights (e.g., via Ollama, LM Studio, Llama.cpp), or remote cloud APIs (e.g., Google Gemini, OpenAI, Anthropic) connected to the Software.
+   - Ensuring that your use of third-party models complies with all applicable local, national, and international laws, regulations, and third-party license agreements.
+   - The prompts, commands, scripts, code generation, and materializations initiated or executed through the Software.
+3. The Authors disclaim any and all liability for offensive, uncensored, illegal, infringing, or harmful outputs produced by models connected by the user.
+
+---
+
+### 5. PRIVACY & LOCAL OPERATION
+LocalGravity is designed as a local-first workstation. When operating with local AI models, the Software does not transmit your source code, workspace files, or chat prompts to remote servers. All telemetry and diagnostic features respect the user's configured settings.
+
+---
+
+### 6. DISCLAIMER OF WARRANTIES ("AS-IS")
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE. 
+
+THE AUTHORS EXPRESSLY DISCLAIM ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUIET ENJOYMENT, AND NON-INFRINGEMENT. THE AUTHORS DO NOT WARRANT THAT THE SOFTWARE WILL BE UNINTERRUPTED, ERROR-FREE, SECURE, OR FREE FROM HARMFUL COMPONENTS.
+
+---
+
+### 7. LIMITATION OF LIABILITY
+IN NO EVENT SHALL ANDREA STRANIERO, MATTEO STRANIERO, OR ANY CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES (INCLUDING, BUT NOT LIMITED TO, LOSS OF DATA, LOSS OF PROFITS, BUSINESS INTERRUPTION, LOSS OF CODE REPOSITORIES, SYSTEM CRASHES, OR HARDWARE FAILURE) ARISING OUT OF OR IN CONNECTION WITH THE USE, INABILITY TO USE, OR PERFORMANCE OF THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+
+YOUR SOLE AND EXCLUSIVE REMEDY FOR DISSATISFACTION WITH THE SOFTWARE IS TO STOP USING AND UNINSTALL THE SOFTWARE.
+
+---
+
+### 8. TERMINATION
+This Agreement remains in effect until terminated. Your rights under this Agreement will terminate automatically without notice if you fail to comply with any of its terms. Upon termination, you must cease all use of the Software and delete all copies from your systems.
+
+---
+
+### 9. CONTACT & INQUIRIES
+For licensing inquiries, commercial partnerships, or permissions beyond the scope of this EULA, please contact the authors through the official repository:
+https://github.com/toesmax/LocalGravity
+
+Copyright © 2026 Andrea Straniero & Matteo Straniero. All rights reserved.

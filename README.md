@@ -3,7 +3,7 @@
 [![Release](https://img.shields.io/badge/Download-Release%20v0.9.5--beta-blue.svg?style=for-the-badge&logo=github)](https://github.com/toesmax/LocalGravity/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-Setup%20%26%20Portable-0078D6.svg?style=for-the-badge&logo=windows)](https://github.com/toesmax/LocalGravity/releases/latest)
 [![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20%26%20Intel-000000.svg?style=for-the-badge&logo=apple)](https://github.com/toesmax/LocalGravity/releases/latest)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License: Proprietary EULA](https://img.shields.io/badge/License-Proprietary%20EULA-red.svg?style=for-the-badge)](./LICENSE)
 
 > **Autonomous Local & Hybrid AI Engineering Workstation**  
 > A privacy-first desktop agentic IDE built for local LLMs (Ollama, LM Studio, Llama.cpp / GGUF) and frontier Cloud AI (Gemini, OpenAI, Anthropic) — featuring true physical workspace isolation, a Strict Local-Only Firewall, 13 chainable slash commands, and 29 specialized engineering studios.
@@ -130,9 +130,11 @@ The authors, maintainers, and contributors disclaim any liability for improper, 
 
 ---
 
-## 📄 License
+## 📄 License & Terms of Use
 
-Distributed under the **MIT License**. See the [`LICENSE`](./LICENSE) file for details.
+LocalGravity is proprietary software distributed under the terms of the **LocalGravity End User License Agreement (EULA)**. It is free for personal, educational, research, and internal commercial development use. 
+
+Decompilation, reverse engineering, unauthorized redistribution, extraction of underlying source code, and commercial resale of the software or its binaries are strictly prohibited without prior written permission from the authors. See [`LICENSE`](./LICENSE) for the full legal agreement.
 
 ---
 
