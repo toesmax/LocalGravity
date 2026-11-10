@@ -1,5 +1,6 @@
 # LocalGravity (`v0.9.5-beta`)
 
+[![Website](https://img.shields.io/badge/Official%20Website-Visit%20Site-2ea44f.svg?style=for-the-badge&logo=netlify)](https://rad-tapioca-92947a.netlify.app/#)
 [![Release](https://img.shields.io/badge/Download-Release%20v0.9.5--beta-blue.svg?style=for-the-badge&logo=github)](https://github.com/toesmax/LocalGravity/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-Setup%20%26%20Portable-0078D6.svg?style=for-the-badge&logo=windows)](https://github.com/toesmax/LocalGravity/releases/latest)
 [![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20%26%20Intel-000000.svg?style=for-the-badge&logo=apple)](https://github.com/toesmax/LocalGravity/releases/latest)
@@ -7,12 +8,14 @@
 
 > **Autonomous Local & Hybrid AI Engineering Workstation**  
 > A privacy-first desktop agentic IDE built for local LLMs (Ollama, LM Studio, Llama.cpp / GGUF) and frontier Cloud AI (Gemini, OpenAI, Anthropic) — featuring true physical workspace isolation, a Strict Local-Only Firewall, 13 chainable slash commands, and 29 specialized engineering studios.
+> 
+> 🌐 **Official Website & Showcase**: [https://rad-tapioca-92947a.netlify.app/#](https://rad-tapioca-92947a.netlify.app/#)
 
 ---
 
 ## 📥 Downloads & Installation
 
-Get the latest pre-compiled desktop binary for your system from the [**Releases Page**](https://github.com/toesmax/LocalGravity/releases/latest):
+Get the latest pre-compiled desktop binary for your system from the [**Releases Page**](https://github.com/toesmax/LocalGravity/releases/latest) or explore interactive features on our [**Official Website**](https://rad-tapioca-92947a.netlify.app/#):
 
 | Platform | Package Type | Description |
 | :--- | :--- | :--- |
@@ -135,6 +138,8 @@ The authors, maintainers, and contributors disclaim any liability for improper, 
 LocalGravity is proprietary software distributed under the terms of the **LocalGravity End User License Agreement (EULA)**. It is free for personal, educational, research, and internal commercial development use. 
 
 Decompilation, reverse engineering, unauthorized redistribution, extraction of underlying source code, and commercial resale of the software or its binaries are strictly prohibited without prior written permission from the authors. See [`LICENSE`](./LICENSE) for the full legal agreement.
+
+For inquiries and online documentation, visit our [**Official Website**](https://rad-tapioca-92947a.netlify.app/#).
 
 ---
 

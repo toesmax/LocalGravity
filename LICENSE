@@ -24,7 +24,7 @@ Subject to the terms and limitations of this Agreement, the Authors grant you a 
 
 ### 3. RESTRICTIONS & PROHIBITED CONDUCT
 You expressly agree NOT to, and will not permit or assist any third party to:
-1. **Decompilation & Reverse Engineering**: Decompile, disassemble, reverse engineer, decrypt, extract, unpack (including extracting the `app.asar` archive or internal runtime resources), or otherwise attempt to derive or discover the source code of the Software.
+1. **Decompilation & Reverse Engineering**: Decompile, disassemble, reverse engineer, decrypt, extract, unpack (including extracting the `app.asar` archive or internal runtime resources), or otherwise attempt to derive or discover the source code of the Software, except and only to the minimum extent that such activity is expressly permitted by applicable mandatory law notwithstanding this limitation.
 2. **Modification & Derivative Works**: Modify, alter, patch, adapt, translate, or create derivative works based upon the Software in whole or in part.
 3. **Commercial Redistribution & Sublicensing**: Sell, rent, lease, sublicense, distribute, host as a cloud service, commercialize, or charge fees for the distribution or download of the Software or its installer files without prior express written consent from the Authors.
 4. **Circumvention of Protections**: Bypass, modify, disable, or circumvent any security controls, licensing mechanisms, or firewall protections incorporated into the Software.
@@ -66,8 +66,19 @@ This Agreement remains in effect until terminated. Your rights under this Agreem
 
 ---
 
-### 9. CONTACT & INQUIRIES
-For licensing inquiries, commercial partnerships, or permissions beyond the scope of this EULA, please contact the authors through the official repository:
-https://github.com/toesmax/LocalGravity
+### 9. THIRD-PARTY OPEN SOURCE SOFTWARE
+The Software incorporates and bundles third-party open-source frameworks, libraries, and runtime components (including but not limited to Electron, Chromium, and Node.js packages). Ownership of and licensing terms for such third-party components remain with their respective copyright holders under their applicable open-source licenses. Nothing in this Agreement limits your rights under, or grants you rights that supersede, the terms of any applicable third-party open-source license.
+
+---
+
+### 10. GOVERNING LAW, JURISDICTION & SEVERABILITY
+This Agreement shall be governed by and construed in accordance with the laws of Italy and applicable European Union Intellectual Property Directives, without regard to conflict of law principles. Any dispute arising out of or related to this Agreement or the Software shall be subject to the exclusive jurisdiction of the Courts of Turin (Foro di Torino), Italy. If any provision of this Agreement is held to be unenforceable or invalid, such provision shall be enforced to the maximum extent possible, and the remaining provisions shall remain in full force and effect.
+
+---
+
+### 11. CONTACT & INQUIRIES
+For licensing inquiries, commercial partnerships, or permissions beyond the scope of this EULA, please contact the authors through the official repository or website:
+- Official Website: https://rad-tapioca-92947a.netlify.app/#
+- Repository: https://github.com/toesmax/LocalGravity
 
 Copyright © 2026 Andrea Straniero & Matteo Straniero. All rights reserved.
